@@ -1,0 +1,1 @@
+import WebRTCOverXMPP from "../src/index.js";
